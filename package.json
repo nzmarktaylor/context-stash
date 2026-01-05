@@ -1,0 +1,55 @@
+{
+  "name": "context-stash",
+  "version": "1.0.0",
+  "description": "A workspace-scoped MCP server that provides a durable, Git-native memory layer for AI coding agents",
+  "main": "dist/index.js",
+  "bin": {
+    "context-stash": "dist/cli.js"
+  },
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "prepublishOnly": "npm run build",
+    "dev": "tsc && node dist/cli.js",
+    "preview:site": "echo Open docs/index.html in your browser to preview the website"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "ai",
+    "coding-agent",
+    "context",
+    "memory",
+    "documentation",
+    "git",
+    "claude",
+    "copilot",
+    "agent"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/context-stash.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/context-stash/issues"
+  },
+  "homepage": "https://github.com/yourusername/context-stash#readme",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "typescript": "^5.3.3"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ]
+}

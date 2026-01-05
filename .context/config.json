@@ -1,0 +1,7 @@
+{
+  "maxLines": 50,
+  "startIndex": 1,
+  "leadingZeros": 5,
+  "filePrefix": "",
+  "fileSuffix": ".md"
+}
