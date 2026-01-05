@@ -27,16 +27,16 @@
     "copilot",
     "agent"
   ],
-  "author": "",
+  "author": "Mark Taylor",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/context-stash.git"
+    "url": "https://github.com/nzmarktaylor/context-stash.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/context-stash/issues"
+    "url": "https://github.com/nzmarktaylor/context-stash/issues"
   },
-  "homepage": "https://github.com/yourusername/context-stash#readme",
+  "homepage": "https://github.com/nzmarktaylor/context-stash#readme",
   "engines": {
     "node": ">=18.0.0"
   },

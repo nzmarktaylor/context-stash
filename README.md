@@ -66,9 +66,9 @@ Like `.gitignore`, `.editorconfig`, and `README.md`, context-stash is:
 
 ## Links
 
-- 🌐 **Website**: [https://yourusername.github.io/context-stash/](https://yourusername.github.io/context-stash/)
+- 🌐 **Website**: [https://nzmarktaylor.github.io/context-stash/](https://nzmarktaylor.github.io/context-stash/)
 - 📦 **npm**: [https://www.npmjs.com/package/context-stash](https://www.npmjs.com/package/context-stash)
-- 💻 **GitHub**: [https://github.com/yourusername/context-stash](https://github.com/yourusername/context-stash)
+- 💻 **GitHub**: [https://github.com/nzmarktaylor/context-stash](https://github.com/nzmarktaylor/context-stash)
 - 📖 **Examples**: [EXAMPLES.md](EXAMPLES.md)
 - 🔧 **Development**: [DEVELOPMENT.md](DEVELOPMENT.md)
 
@@ -393,7 +393,7 @@ Only ignore if your context contains sensitive information:
 ### Building from Source
 
 ```bash
-git clone https://github.com/yourusername/context-stash.git
+git clone https://github.com/nzmarktaylor/context-stash.git
 cd context-stash
 npm install
 npm run build

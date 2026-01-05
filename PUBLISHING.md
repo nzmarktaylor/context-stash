@@ -117,7 +117,7 @@ The package name is taken. Choose a different name or scope it:
 
 ```json
 {
-  "name": "@yourname/context-stash"
+  "name": "@nzmarktaylor/context-stash"
 }
 ```
 
